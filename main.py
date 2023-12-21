@@ -3,5 +3,5 @@ import numpy as np
 
 x = np.linspace(0,20,100)
 plt.plot(x, np.sin(x))
-print("Ok! It's done?")
+print("Ok! It's done? And branch updated!")
 plt.show()
